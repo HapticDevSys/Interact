@@ -1,4 +1,4 @@
-#All I have done is retexture the interact from Karma's Modifications, and put in another users Model Table method.
+# All I have done is retexture the interact from Karma's Modifications, and put in another users Model Table method.
 
 # World Interactions
 Create interaction points in the world with selectable options.
